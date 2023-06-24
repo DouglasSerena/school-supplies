@@ -66,3 +66,113 @@
 -   [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
 -   [ ] A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
 -   [ ] As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+
+## Questão 5°
+
+### Considere as assertivas abaixo:
+
+#### I. Ao olharmos para os primeiros séculos da história do Cristianismo, percebemos uma significativa mudança de status. De início, o cristianismo era considerado uma religião ilegal, o que implicou em inúmeras e violentas perseguições aos seus adeptos. No entanto, com o aumento do número de convertidos acompanhado de outros movimentos históricos, o cristianismo veio a se tornar, no final do século IV, a religião oficial do Império Romano.
+
+#### II. O Édito de Tessalônica representou liberdade de culto aos cristão. Por outro lado, devido ao aumento de poder que trouxe para os líderes da igreja, foi também seguido por perseguições religiosas àqueles que não partilhavam da fé cristã. Do ponto de vista do cristianismo, tal atitude pode ser explicada por um dos conceitos básicos da fé cristã - o pecado. Ele está presente em todo lugar, e é raiz de males também dentro da própria comunidade cristã.
+
+##### A respeito dessas duas asserções, assinale a opção correta.
+
+-   [ ] A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+-   [ ] As asserções I e II são proposições verdadeiras, mas não existe relação temática entre elas.
+-   [ ] A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+-   [ ] As asserções I e II são proposições falsas.
+-   [x] As asserções I e II são proposições verdadeiras, e a II amplia a temática abordada na I.
+
+## Questão 6°
+
+## Com relação ao sentimento de culpa, analise as afirmativas que seguem e depois responda o que é proposto:
+
+#### I. Competição no emprego, optar por filhos ou carreira, desempenho sexual, comer demais, a ditadura da beleza, o insucesso financeiro são apenas algumas dentre as diversas culpas cotidianas que parecem ser impostas aos indivíduos na sociedade moderna.
+
+#### II. Estudiosos do comportamento humano afirmam que a ausência completa de culpa é um dos indicativos para um possível diagnóstico de psicopatia ou sociopatia nos indivíduos, ou seja, a culpa parece conter um elemento positivo de caráter civilizatório e de proteção da coletividade.
+
+#### III. A culpa é um tema estudado na disciplina de Cultura Religiosa pelo fato de ela ser uma produção exclusiva do fenômeno religioso, nascida a partir da criação dos códigos morais das diferentes religiões. Em povos ou grupos ateístas não há registros de sentimento de culpa nos indivíduos.
+
+##### É correto apenas o que se afirma em:
+
+-   [x] I e II.
+-   [ ] III.
+-   [ ] II e III.
+-   [ ] I.
+-   [ ] II.
+
+## Questão 7°
+
+### Considere o texto abaixo:
+
+#### "Só é possível falar em ética quando falamos em seres humanos, porque ética pressupõe a capacidade de decidir, julgar, avaliar com autonomia. Portanto, pressupõe liberdade." (Cortella, Mario Sergio. Qual é a tua obra? Editora Vozes. Edição do Kindle. pos. 1043)
+
+##### Com base no texto acima e no conteúdo trabalhado na disciplina de Cultura Religiosa, considere as assertivas abaixo:
+
+#### I- Ética envolve a capacidade de discernimento das razões e previsão das consequências de determinados atos.
+
+#### II- Para Cortella, decisões éticas são resultados de impulsos instintivos ou genéticos.
+
+#### III- Ética só pode ser exercida em liberdade e autonomia, características dos seres humanos em geral.
+
+#### IV- Toda decisão livre e autônoma é uma decisão moralmente correta e acertada, independente de suas razões e consequências.
+
+##### Estão corretas somente as assertivas:
+
+-   [ ] III e IV.
+-   [ ] I e II.
+-   [x] I e III.
+-   [ ] I e IV.
+-   [ ] II e III.
+
+## Questão 8°
+
+### Considere as afirmações abaixo:
+
+#### I. Quando compreendemos as raízes de vários dos ideais humanos contemporâneos, como é o caso do protesto não violento buscado por Gandhi, percebemos o quanto nosso jeito de pensar está enraizado em conceitos religiosos.
+
+#### II. Para Sidartha Gautama, viver neste mundo é sofrer, e a raiz deste sofrimento é o desejo que nos prende àquilo que é ilusório. Este incentivo ao desapego pode fazer com que princípios budistas se conectem a anseios de uma comunidade preocupada com nosso exagerado consumismo.
+
+#### III. Quando percebemos a submissão à Ala (e às palavras de Maomé) como característica marcante do Islamismo, compreendemos por que muitos povos islâmicos constituíram estados religiosos. Afinal, a submissão deve ser total, não apenas na vida privada, mas também na vida pública.
+
+##### É correto o que se afirma em:
+
+-   [ ] Apenas em II e III.
+-   [ ] Apenas em II.
+-   [ ] Apenas em I e III.
+-   [x] Em I, II e III.
+-   [ ] Apenas em I e II.
+
+## Questão 9°
+
+### Considere as asserções abaixo:
+
+#### I. Na formação cultural e religiosa do povo brasileiro, houve marcante influência do catolicismo português, o qual mostrava-se, com frequência, intolerante a outras manifestações religiosas. No entanto, a religiosidade popular brasileira acabou se apropriando de elementos religiosos diversos, o que contribuiu para diferentes expressões sincréticas da fé que move o povo.
+
+#### II. Os povos indígenas que aqui habitavam e os africanos forçosamente trazidos viviam uma diversidade religiosa ligada a diversidade de seus próprios povos. Havia elementos comuns entre as etnias indígenas, assim como entre as africanas, mas também havia diversidade de ritos, crenças e divindades. A isto somou-se a miscibilidade do português quinhentista.
+
+##### A respeito dessas asserções, assinale a opção correta.
+
+-   [ ] A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+-   [ ] As asserções I e II são proposições falsas.
+-   [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
+-   [ ] A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+-   [ ] As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+
+## Questão 10°
+
+### Analise as afirmativas que seguem e depois responda o que é proposto:
+
+#### I - São muitas as relações entre religião e sociedade, ou entre as estruturas sociais e as diversas denominações e vertentes religiosas. Seja no âmbito privado ou público, a fé e as tradições religiosas/espirituais demarcam formas diferentes de ser, pensar, sentir e agir dos indivíduos e grupos, nos diferentes âmbitos da existência humana.
+
+### Porque
+
+#### II - A religiosidade traz, como uma de suas principais funções, a de dar sentido aos acontecimentos da vida, transversalizando as grandes questões humanas, desde o nascimento até a morte. Perguntas como "quem sou?", "de onde vim?", "para onde vou?" procuram ser respondidas pelas principais religiões do mundo, interferindo na forma como as pessoas sentem, pensam e agem cotidianamente.
+
+##### A respeito dessas asserções, assinale a opção correta.
+
+-   [ ] As asserções I e II são proposições falsas.
+-   [ ] As asserções I e II são proposições verdadeiras, mas a II não tem relação com a I.
+-   [ ] A asserção I é uma proposição falsa e a II é uma proposição verdadeira.
+-   [x] As asserções I e II são proposições verdadeiras, e ambas estão interligadas entre si.
+-   [ ] A asserção I é uma proposição verdadeira e a II é uma proposição falsa.
