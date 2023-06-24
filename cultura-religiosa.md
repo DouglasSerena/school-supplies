@@ -85,7 +85,7 @@
 
 ## Questão 6°
 
-## Com relação ao sentimento de culpa, analise as afirmativas que seguem e depois responda o que é proposto:
+### Com relação ao sentimento de culpa, analise as afirmativas que seguem e depois responda o que é proposto:
 
 #### I. Competição no emprego, optar por filhos ou carreira, desempenho sexual, comer demais, a ditadura da beleza, o insucesso financeiro são apenas algumas dentre as diversas culpas cotidianas que parecem ser impostas aos indivíduos na sociedade moderna.
 
