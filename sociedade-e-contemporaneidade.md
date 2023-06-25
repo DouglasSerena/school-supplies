@@ -10,13 +10,17 @@
 
 ##### A respeito dessas asserções, assinale a opção correta.
 
--   [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
+- [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
 
 ## Questão 2°
 
-#### Escolha qual conjunto de palavras não está associada ao nosso tempo e NÃO apresenta princípios e postulados da sociedade contemporânea.
+#### Escolha qual conjunto de palavras não está associada ao nosso tempo e **NÃO** apresenta princípios e postulados da sociedade contemporânea.
 
--   [x] Rigidez - Permanência - Estabilidade
+- [ ] Velocidade - Visibilidade - Compartilhamento
+- [ ] Rede - Conectividade - Inovação
+- [x] Rigidez - Permanência - Estabilidade
+- [ ] Novas dimensões de tempo (atemporal) e espaço (desterritorializado)
+- [ ] Fluidez - Liquidez - Individualização
 
 ## Questão 3°
 
@@ -32,11 +36,11 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II, III e IV.
+- [x] Estão corretas as afirmativas I, II, III e IV.
 
 ## Questão 4°
 
-##### A luz dos conteúdos propostos ao longo da disciplina de Sociedade e Contemporaneidade é correto afirmar que:
+##### A luz dos conteúdos propostos ao longo da disciplina de Sociedade e Contemporaneidade é **correto** afirmar que:
 
 #### I - Um traço comum entre alguns analistas da sociedade atual como Bauman, Castells e Tapscott, dentre outros, é que o ponto chave para compreender sua dinâmica está no impacto das novas tecnologias, que mudam a forma como nos comunicamos e como as informações circulam.
 
@@ -48,7 +52,11 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II, III e IV
+- [ ] Estão corretas as afirmativas I e IV.
+- [ ] Estão corretas as afirmativas I, II e III.
+- [x] Estão corretas as afirmativas I, II, III e IV
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
 
 ## Questão 5°
 
@@ -64,7 +72,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II e III
+- [x] Estão corretas as afirmativas I, II e III
 
 ## Questão 6°
 
@@ -80,7 +88,7 @@
 
 ##### Com base nas afirmações anteriores, assinale a alternativa correta.
 
--   [x] Somente as afirmações I, II e III estão corretas
+- [x] Somente as afirmações I, II e III estão corretas
 
 ## Questão 7°
 
@@ -98,7 +106,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II, III e IV
+- [x] Estão corretas as afirmativas I, II, III e IV
 
 ## Questão 8°
 
@@ -114,23 +122,27 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II, III e IV
+- [x] Estão corretas as afirmativas I, II, III e IV
 
 ## Questão 9°
 
-#### Os fenômenos sociais, hoje, são construídos de forma cada vez mais complexa, necessitando por parte do analista novos olhares, outros "óculos", daí o uso da categoria de análise "Rede Dinâmica". A "Rede Dinâmica" é um conceito que condensa a complexidade e a diversidade do mundo atual e os potenciais trazidos pelas novas mediações que caracterizam a Terceira Revolução Industrial. São dimensões do conceito de Rede Dinâmica:
+#### Na discussão política você certamente já ouviu falar em direita e esquerda não é mesmo? Quanto a esses conceitos conceitos podemos aferir que
 
-#### I - Velocidade, complexidade, visibilidade.
+#### I- essa terminologia vem desde a revolução francesa no século XVIII e designava aqueles na assembleia francesa que sentavam à esquerda, chamados de jacobinos (com sensibilidade para as questões sociais) e os que sentavam à direita, os girondinos (com sensibilidade para as questões econômicas).
 
-#### II - Rigidez, controle, previsibilidade, estabilidade.
+#### II- a discussão se dá também em torno do ESTADO e de suas atribuições, pois nessa perspectiva "ser esquerda" é desejar um Estado mais voltado ao desenvolvimento social, à distribuição de renda, a políticas sociais, ao passo que ser de direita é conceber como função um Estado mais voltado à eficácia econômica, ao controle dos gastos públicos.
 
-#### III - Flexibilidade, interdependência, diversidade.
+#### III- o cientista político italiano Norberto Bobbio (1995) vai afirmar que, ser de direita é achar que nós somos muito mais diferentes do que iguais, o acento é naquilo que nos separa, ao passo que os de esquerda acham que nós somos muito mais iguais do que diferentes, o acento é no que nos aproxima.
 
-#### IV - Fluidez, potencial democrático, indeterminação.
+#### IV- a questão envolve o grau de dependência das pessoas em relação ao estado, pessoas mais ricas precisam mais do Estado e votam majoritariamente na esquerda, ao passo que os pobres identificam-se mais com os valores da Direita.
 
-##### Com base nas afirmativas anteriores, assinale a alternativa correta.
+##### Assinale a alternativa correta:
 
--   [x] Estão corretas somente as afirmativas I, III e IV
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I, II, III e IV
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [x] Estão corretas as afirmativas I, II e III
+- [ ] Estão corretas as afirmativas I e IV.
 
 ## Questão 10°
 
@@ -144,7 +156,11 @@
 
 ##### A respeito dessas asserções, assinale a opção correta.
 
--   [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
+- [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
+- [ ] As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+- [ ] A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+- [ ] A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+- [ ] As asserções I e II são proposições falsas
 
 ## Questão 11°
 
@@ -160,19 +176,23 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] estão corretas as afirmativas I, II e IV
+- [x] estão corretas as afirmativas I, II e IV
 
 ## Questão 12°
 
 #### A tecnologia, em sua inevitável inserção no cotidiano dos indivíduos nas sociedades industrializadas, interfere na sociabilidade humana. Conforme Castells (2009, p. 43), "a tecnologia é a sociedade, e a sociedade não pode ser entendida ou representada sem suas ferramentas tecnológicas". Assinale a alternativa falsa.
 
--   [x] As redes sociais são elemento de alienação e individualismo por causa do uso que os indivíduos fazem dela
+- [x] As redes sociais são elemento de alienação e individualismo por causa do uso que os indivíduos fazem dela
 
 ## Questão 13°
 
-#### Não é característica dos espaços públicos mediados em que as pessoas se reúnem através da mediação da tecnologia (como os sites de redes sociais), segundo Boyd (apud RECUERO, 009).
+#### **Não** é característica dos espaços públicos mediados em que as pessoas se reúnem através da mediação da tecnologia (como os sites de redes sociais), segundo Boyd (apud RECUERO, 2009).
 
--   [x] Possibilidade controle daquilo que se divulga (seja falso ou verdadeiro) a respeito de pessoas, marcas, políticos etc.
+- [ ] Nos ambientes das redes sociais, há a presença de audiências nem sempre visíveis através da participação.
+- [ ] Capacidade que esses espaços têm de permitir a busca e permitir que os atores sociais (usuários e mesmo cidadãos não-usuários das redes) sejam rastreados.
+- [x] Possibilidade de controle daquilo que se divulga (seja falso ou verdadeiro) a respeito de pessoas, marcas, políticos etc.
+- [ ] Aquilo que foi dito permanece no ciberespaço. Ou seja, as informações, uma vez publicadas, ficam no ciberespaço.
+- [ ] Aquilo que é publicado no espaço digital pode ser replicado a qualquer momento, por qualquer indivíduo.
 
 ## Questão 14°
 
@@ -190,7 +210,7 @@
 
 ##### Com base nas afirmações anteriores, assinale a alternativa correta.
 
--   [x] Somente as afirmações I, II e IV estão corretas
+- [x] Somente as afirmações I, II e IV estão corretas
 
 ## Questão 15°
 
@@ -206,7 +226,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] estão corretas as afirmativas I, II, III e IV
+- [x] estão corretas as afirmativas I, II, III e IV
 
 ## Questão 16°
 
@@ -214,7 +234,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Democrático
+- [x] Democrático
 
 ## Questão 17°
 
@@ -230,7 +250,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II e III
+- [x] Estão corretas as afirmativas I, II e III
 
 ## Questão 18°
 
@@ -238,7 +258,11 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] inteligência emocional
+- [ ] inteligência gerencial
+- [x] inteligência emocional
+- [ ] coeficiente de inteligência elevado
+- [ ] inteligência cognitiva
+- [ ] inteligência organizacional
 
 ## Questão 19°
 
@@ -254,7 +278,11 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II e III
+- [x] Estão corretas as afirmativas I, II e III
+- [ ] Estão corretas as afirmativas I, II, III e IV.
+- [ ] Estão corretas as afirmativas I e IV.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
 
 ## Questão 20°
 
@@ -270,7 +298,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II, III e IV
+- [x] Estão corretas as afirmativas I, II, III e IV
 
 ## Questão 21°
 
@@ -286,7 +314,7 @@
 
 #### II - O acesso universal a informação potencializado pela Internet, não acaba com a importância da ciência, ao contrário pois estamos hoje expostos, mais do que nunca, a formadores de opinião desqualificados e a "espertos" pregando mentiras (fake news). A respeito dessas asserções, assinale a opção correta.
 
--   [x] As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
+- [x] As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
 
 ## Questão 22°
 
@@ -296,7 +324,7 @@
 
 #### ( ) refere-se à capacidade que esses espaços têm de permitir a busca e permitir que os atores sociais sejam rastreados, assim como outras informações;
 
--   [x] Capacidade de Busca
+- [x] Capacidade de Busca
 
 ## Questão 23°
 
@@ -312,7 +340,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] estão corretas as afirmativas I, II, III e IV.
+- [x] estão corretas as afirmativas I, II, III e IV.
 
 ## Questão 24°
 
@@ -328,7 +356,7 @@
 
 ##### A respeito dessas asserções, assinale a opção correta.
 
--   [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
+- [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
 
 ## Questão 25°
 
@@ -336,17 +364,21 @@
 
 ##### Com essa afirmação, o autor chama a atenção para o fato de que valores:
 
-#### I - "materialistas" são típicos de sociedades mais desenvolvidas, são aqueles em que as pessoas estão preocupadas somente com as coisas materiais, com o consumo pelo consumo e não com a sustentabilidade domplaneta.
+#### I - "materialistas" são típicos de sociedades mais desenvolvidas, são aqueles em que as pessoas estão preocupadas somente com as coisas materiais, com o consumo pelo consumo e não com a sustentabilidade do planeta.
 
 #### II - "pós-materialistas" são valores ligados à espiritualidade, a vidas bem resolvidas, em que a religião é a principal conectora de solidariedade entre as pessoas.
 
 #### III - "materialistas" são valores que demonstram preocupação ainda com sobrevivência, com suas condições materiais de vida e são típicos de sociedades menos desenvolvidas.
 
-#### IV - "pós-materialistas" são valores ligados à auto expressão, à participação e são mais compatíveis com sociedades mais desenvolvidas e de democracias mais estáveis.
+#### IV- "pós-materialistas" são valores ligados à autoexpressão, à participação e são mais compatíveis com sociedades mais desenvolvidas e de democracias mais estáveis.
 
 ##### Com base nas afirmações anteriores, assinale a alternativa correta.
 
--   [x] Somente as afirmações III e IV estão corretas.
+- [x] Somente as afirmações III e IV estão corretas.
+- [ ] Somente as afirmações I e II estão corretas.
+- [ ] Apenas a afirmação I está correta.
+- [ ] Apenas a afirmação II está correta.
+- [ ] Apenas a afirmação III está correta.
 
 ## Questão 26°
 
@@ -362,7 +394,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II e III.
+- [x] Estão corretas as afirmativas I, II e III.
 
 ## Questão 27°
 
@@ -376,7 +408,7 @@
 
 ##### A respeito dessas asserções, assinale a opção correta.
 
--   [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
+- [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
 
 ## Questão 28°
 
@@ -392,7 +424,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II, III e IV.
+- [x] Estão corretas as afirmativas I, II, III e IV.
 
 ## Questão 29°
 
@@ -406,13 +438,17 @@
 
 #### IV - previsibilidade e certeza (estabilidade) como padrão das relações, tendo em vista a complexidade com que se estabelecem.
 
-##### Com base nas afirmações anteriores, assinale a alternativa CORRETA.
+##### Com base nas afirmações anteriores, assinale a alternativa **correta**.
 
--   [x] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I e IV.
+- [ ] Estão corretas as afirmativas I, II, III e IV.
+- [x] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I, III e IV
 
 ## Questão 30°
 
-##### Podemos definir ditadura/autoritarismo como:
+##### Podemos definir **ditadura/autoritarismo** como:
 
 #### I - Um sistema politico que tem um lider, um centro de poder, inexistência de oposição e identificação do interesse nacional com o interesse do grupo no poder.
 
@@ -422,33 +458,45 @@
 
 #### IV - Um sistema político que exige dos cidadãos apenas obediência a regras participação compulsória/apoio e submissão ao partido ou ao Estado.
 
-##### Assinale a alternativa correta:
+##### Assinale a alternativa **correta**:
 
--   [x] Estão corretas as afirmativas I e IV.
+- [ ] Estão corretas as afirmativas I, II, III e IV.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I, II e III.
+- [x] Estão corretas as afirmativas I e IV.
 
 ## Questão 31°
 
 #### Segundo o capítulo "Trabalho e Emprego no Mundo das Novas Tecnologias", o mercado de trabalho está cada vez mais exigente, nesse sentido, fugindo aos clichês, o mercado precisa de pessoas cada vez mais:
 
--   [x] competentes (CHA).
+- [ ] politicamente corretas.
+- [x] competentes (CHA).
+- [ ] eruditas.
+- [ ] inteligentes.
+- [ ] articuladas.
 
 ## Questão 31°
 
 #### Com base no capítulo "Trabalho e Emprego no Mundo das Novas Tecnologias", as fontes de riqueza, no Brasil contemporâneo, não são mais os recursos naturais ou o trabalho físico dos séculos pretéritos, mas o conhecimento e a comunicação, o capital intelectual. Nessa nova economia, a disputa, agora, é pela posse, produção e distribuição do conhecimento em escala global. Podemos chamar economia de:
 
--   [x] economia do conhecimento
+- [x] economia do conhecimento
 
 ## Questão 32°
 
 #### O que define uma rede social digital:
 
--   [x] os atores e os tipos de conexões que eles estabelecem, gerando um fluxo informacional e relacional.
+- [x] Os atores e os tipos de conexões que eles estabelecem, gerando um fluxo informacional e relacional.
+- [ ] A empresa que cria a rede social e permite que os usuários tenham acesso a ela.
+- [ ] A popularidade da rede perante os usuários.
+- [ ] As conexões (ou seja, as interações ou laços sociais).
+- [ ] As pessoas, instituições ou grupos que dela participam (os "atores").
 
 ## Questão 33°
 
 #### Quanto às características que distinguem a Sociedade em Rede, aponte a alternativa incorreta (que não corresponde a essa sociedade).
 
--   [x] Os fenômenos sociais, hoje, são construídos de forma cada vez mais simples, pois as informações e o conhecimento estão disponíveis a todos, permitindo, assim, uma análise realista e consensual sobre a realidade que os cerca.
+- [x] Os fenômenos sociais, hoje, são construídos de forma cada vez mais simples, pois as informações e o conhecimento estão disponíveis a todos, permitindo, assim, uma análise realista e consensual sobre a realidade que os cerca.
 
 ## Questão 34°
 
@@ -464,35 +512,47 @@
 
 ##### Assinale a alternativa correta.
 
--   [x] Estão corretas somente as afirmativas II, III e IV.
+- [x] Estão corretas somente as afirmativas II, III e IV.
 
 ## Questão 35°
 
 ##### Leia com atenção as afirmativas abaixo:
 
-#### I - Os direitos humanos são, ao mesmo tempo, naturais, pois são da pessoa humana e não precisam estar explicitados na Constituição de um país, por exemplo (mas é melhor se estiverem), e universais, são para todos.
+#### I- Os direitos humanos são, ao mesmo tempo, naturais, pois são da pessoa humana e não precisam estar explicitados na Constituição de um país, por exemplo (mas é melhor se estiverem), e universais, são para todos.
 
-#### II - Direitos humanos não são a mesma coisa que direitos do cidadão. Se os direitos humanos são universais, os direitos do cidadão vão depender da Constituição de cada país, de seus processos internos e de sua cultura política.
+#### II- Direitos humanos não são a mesma coisa que direitos do cidadão. Se os direitos humanos são universais, os direitos do cidadão vão depender da Constituição de cada país, de seus processos internos e de sua cultura política.
 
 #### III - Mais recentemente, em razão da segunda guerra mundial, diante dos horrores do holocausto e da perseguição nazista aos judeus e demais povos não arianos, é que tivemos, em 1948, a primeira Declaração Universal dos Direitos Humanos.
 
-#### IV - Os países mais democráticos são aqueles que mais defendem os direitos humanos e vice-versa. Aliás, se você é ou tem amigos que são mulheres, negros, índios, gays, deficientes, ou seja, "diferentes", as melhores sociedades para se viver são aquelas mais democráticas e mais desenvolvidas do mundo.
+#### IV- Os países mais democráticos são aqueles que mais defendem os direitos humanos e vice-versa. Aliás, se você é ou tem amigos que são mulheres, negros, índios, gays, deficientes, ou seja, "diferentes", as melhores sociedades para se viver são aquelas mais democráticas e mais desenvolvidas do mundo.
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I e II.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I e II.
+- [x] Estão corretas as afirmativas I, II, III e IV.
+- [ ] Estão corretas as afirmativas I e IV.
+- [ ] Está correta a afirmativa I somente.
 
 ## Questão 36°
 
 #### A respeito do que Paula Sibilia (2003) chama de "imperativo da visibilidade", ou seja, um desejo de exibição que muitas vezes torna pouco definíveis as fronteiras entre o público e o privado, a depender de como um sujeito decide existir e se expor nas redes sociais digitais, é incorreto afirmar:
 
--   [x] A busca por visibilidade pública é exclusiva deste período histórico pós-redes sociais digitais.
+- [ ] A maneira como os indivíduos tentam construir a sua performance online, manifestando gostos pessoais e preferências políticas ou mesmo mostrando os círculos sociais que frequentam, é semelhante ao modo como tentam se expor e se projetar também fora das redes sociais.
+- [ ] A ideia de performance online não pressupõe necessariamente mentira e fingimento, mas sim indica que as pessoas escolhem e selecionam aquilo que querem tornar público a respeito de suas vidas.
+- [x] A busca por visibilidade pública é exclusiva deste período histórico pós-redes sociais digitais.
+- [ ] A subjetividade contemporânea está passando por um processo de mudança significativo, que tem as redes como sintoma e como fomentadoras.
+- [ ] As fronteiras entre o público e o privado não se apagaram completamente
 
 ## Questão 37°
 
 #### De acordo com o capítulo "Trabalho e Emprego no Mundo das Novas Tecnologias", o êxodo rural expressivo de agricultores para os centros urbanos no século XX, a expansão da mão de obra assalariada, a criação do salário mínimo, da carteira de trabalho e de toda a legislação trabalhista moderna edificada a partir da Era Vargas tornaram o Brasil um país de economia:
 
--   [x] industrial.
+- [x] Industrial.
+- [ ] De agronegócio.
+- [ ] De exploração.
+- [ ] Do conhecimento.
+- [ ] Agropecuária.
 
 ## Questão 38°
 
@@ -500,7 +560,7 @@
 
 #### ( ) aquilo que é publicado no espaço digital pode ser replicado a qualquer momento, por qualquer indivíduo. Isso implica também no fato de que essas informações são difíceis de ter sua autoria determinada;
 
--   [x] Replicabilidade.
+- [x] Replicabilidade.
 
 ## Questão 39°
 
@@ -516,7 +576,7 @@
 
 ##### A respeito dessas asserções, assinale a opção correta.
 
--   [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
+- [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
 
 ## Questão 40°
 
@@ -532,7 +592,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II, III e IV.
+- [x] Estão corretas as afirmativas I, II, III e IV.
 
 ## Questão 41°
 
@@ -548,7 +608,11 @@
 
 ##### Com base nas afirmativas anteriores, assinale a alternativa correta.
 
--   [x] Estão corretas somente as afirmativas I, III e IV.
+- [ ] Estão corretas somente as afirmativas I, II e IV.
+- [ ] Estão corretas somente as afirmativas I, II e III.
+- [ ] Todas as afirmativas estão corretas (I,II,III,IV).
+- [ ] Estão corretas somente as afirmativas I e III.
+- [x] Estão corretas somente as afirmativas I, III e IV.
 
 ## Questão 42°
 
@@ -564,7 +628,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II e III.
+- [x] Estão corretas as afirmativas I, II e III.
 
 ## Questão 43°
 
@@ -580,19 +644,27 @@
 
 ##### Com base nas afirmações anteriores, assinale a alternativa correta.
 
--   [x] Estão corretas somente as afirmativas I, III e IV.
+- [x] Estão corretas somente as afirmativas I, III e IV.
 
 ## Questão 44°
 
 #### Quanto às características que distinguem a Sociedade em Rede, aponte a alternativa incorreta (que não corresponde a essa sociedade).
 
--   [x] Os fenômenos sociais, hoje, são construídos de forma cada vez mais simples, pois as informações e o conhecimento estão disponíveis a todos, permitindo, assim, uma análise realista e consensual sobre a realidade que os cerca.
+- [ ] O que é inerente à sociedade informacional é o fato de as tecnologias agora disponíveis ampliarem, em quantidades impensáveis e imprevisíveis, as ações humanas e o seus alcances, quaisquer que sejam essas ações, boas ou ruins.
+- [ ] A maior visibilidade dos fenômenos sociais faz com que estes sejam construídos através de relações cada vez mais secundárias e menos primárias.
+- [x] Os fenômenos sociais, hoje, são construídos de forma cada vez mais simples, pois as informações e o conhecimento estão disponíveis a todos, permitindo, assim, uma análise realista e consensual sobre a realidade que os cerca.
+- [ ] As novas tecnologias redimensionam as noções de espaço e de tempo, aproximam as pessoas e aumentam o número de interação entre elas, trazendo velocidade a essa sociedade.
+- [ ] Novos espaços e formas de articulação são potencializados nessa sociedade, pois a informação (fonte de poder) é mais socializada, fazendo com que relações sociais antes desconhecidas, venham à tona, modificando culturas.
 
 ## Questão 45°
 
-#### De acordo com o capítulo "Trabalho e Emprego no Mundo das Novas Tecnologias", o êxodo rural expressivo de agricultores para os centros urbanos no século XX, a expansão da mão de obra assalariada, a criação do salário mínimo, da carteira de trabalho e de toda a legislação trabalhista moderna edificada a partir da Era Vargas tornaram o Brasil um país de economia:
+#### Segundo o capítulo "Trabalho e Emprego no Mundo das Novas Tecnologias", quando o emprego, dentro de uma empresa, segue a sequência de cargos e está ligado, diretamente, a carreiras em grandes organizações, grandes empresas concebidas para revelar um único cenário de emprego, numa única organização, podemos denominá-las, conceitualmente, como:
 
--   [x] industrial.
+- [x] Carreiras organizacionais.
+- [ ] Carreiras burocráticas.
+- [ ] Carreiras sem fronteiras.
+- [ ] Carreiras proteanas.
+- [ ] Carreiras hierárquicas.
 
 ## Questão 46°
 
@@ -608,7 +680,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II e III.
+- [x] Estão corretas as afirmativas I, II e III.
 
 ## Questão 47°
 
@@ -624,7 +696,7 @@
 
 ##### Com base nas afirmações anteriores, assinale a alternativa correta.
 
--   [x] Estão corretas somente as afirmativas I, III e IV.
+- [x] Estão corretas somente as afirmativas I, III e IV.
 
 ## Questão 48°
 
@@ -640,7 +712,11 @@
 
 ##### Com base nas afirmações acima, assinale a alternativa correta.
 
--   [x] Todas as afirmativas estão corretas (I, II, III, IV).
+- [x] Todas as afirmativas estão corretas (I, II, III, IV).
+- [ ] Estão corretas somente as afirmativas I e IV.
+- [ ] Estão corretas somente as afirmativas I, II e IV.
+- [ ] Estão corretas somente as afirmativas I, II e III.
+- [ ] Estão corretas somente as afirmativas I, III e IV.
 
 ## Questão 49°
 
@@ -648,7 +724,7 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Democrático
+- [x] Democrático
 
 ## Questão 50°
 
@@ -666,4 +742,330 @@
 
 ##### Assinale a alternativa correta:
 
--   [x] Estão corretas as afirmativas I, II e III
+- [x] Estão corretas as afirmativas I, II e III
+
+## Questão 51°
+
+#### Sobre a produção e circulação de notícias no contexto pós-redes sociais, assinale a alternativa **falsa**.
+
+- [ ] As etapas de produção de uma notícia incluem elaboração de pauta, checagem e verificação, apuração, realização de entrevistas com todos os lados envolvidos e pesquisa documental, bem como a avaliação dos chamados "valores-notícia".
+- [x] A circulação de informações nas redes sociais não exige papel ativo do público.
+- [ ] As redes sociais contribuem para a circulação das notícias e também abrem espaço para contrapontos, visões divergentes, espaços de resposta e desmentidos em relação àquilo que a imprensa publica.
+- [ ] O jornalismo opera como um balizador no sentido de orientar os cidadãos em relação à diferença entre notícias e meras informações produzidas e divulgadas de forma amadora.
+- [ ] A falta de apuração por parte dos jornalistas e o compartilhamento de informações falsas por usuários que não conferem a sua veracidade constitui um perigo que pode resultar, por exemplo, em violência e crimes de vingança
+
+## Questão 52°
+
+#### Quanto aos pressupostos da Sociedade Informacional, Castells (1999) distingue modo de desenvolvimento de modo de produção. Quanto a isso, é correto afirmar que:
+
+#### I- O modo de produção diz respeito à forma como é distribuído o produto do trabalho, como são feitos a apropriação e o uso do excedente e podendo ser, portanto, capitalista (sob o domínio do capital privado) ou estadista (sob o domínio e controle do Estado).
+
+#### II- O modo de desenvolvimento de uma sociedade é determinado pelo elemento principal para a produtividade e para a produção da riqueza. Outrora modo de desenvolvimento agrário, industrial e, hoje, o modo de desenvolvimento informacional.
+
+#### III- O modo de produção de uma sociedade é determinado pelo elemento principal para a produtividade e para a produção da riqueza. Outrora modo de produção agrário, industrial e, hoje, o modo de produção informacional.
+
+#### IV- O modo de desenvolvimento de uma sociedade diz respeito à forma como é distribuído o produto do trabalho, como são feitos a apropriação e o uso do excedente e podendo ser, portanto, capitalista (sob o domínio do capital privado) ou estadista (sob o domínio e controle do Estado).
+
+##### Com base nas afirmativas anteriores, assinale a alternativa correta.
+
+- [ ] Estão corretas somente as afirmativas II e III.
+- [ ] Estão corretas somente as afirmativas I e IV.
+- [ ] Nenhuma das afirmativas está correta.
+- [ ] Estão corretas somente as afirmativas III e IV.
+- [x] Estão corretas somente as afirmativas I e II.
+
+## Questão 53°
+
+#### Na discussão que a disciplina propõe quanto ao conceito de democracia, a primeira indagação que devemos fazer é por que o poder precisa pertencer ao "povo", por que não pode pertencer a alguém, a algum grupo de pessoas bem-intencionado e esclarecido? São respostas a essa indigação:
+
+#### I - Porque as pessoas, como argumentou o "fundador" da Ciência Política, Nicolau Maquiavel, são egoístas e mesquinhas, e é da natureza humana pensar nos interesses individuais em primeiro lugar.
+
+#### II- Porque o excesso de poder nas mãos de uma única pessoa ou grupo sempre leva à tirania, ao abuso de poder;
+
+#### III - Porque o controle do Estado pela "demos", pelo povo, é sempre prudente. A democracia como conceito visa distribuir o poder entre todos e regular a competição política através de regras.
+
+#### IV - Porque um dos princípios da democracia é a distribuição do poder e a regulação da disputa através de regras democráticas. É uma tecnologia que visa regular a relação entre interesses diversos e evitar sua autodestruição.
+
+##### Assinale a alternativa correta:
+
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I e IV.
+- [x] Estão corretas as afirmativas I, II, III e IV
+- [ ] Estão corretas as afirmativas I, II e III.
+
+## Questão 54°
+
+#### No que tange a relação entre democracia, liberalismo e Direitos Humanos, conforme leitura dos textos propostos pela disciplina é **correto** afirmar que:
+
+#### I- Todo verdadeiro democrata é sempre um grande desconfiado do poder do Estado, pois a democracia moderna liberal nasce contrapondo-se ao arbítrio do poder absolutista do nobre (que legislava, executava e julgava sozinho).
+
+#### II- O liberalismo pregava a liberdade do sujeito na relação com o Estado, mas não só a liberdade econômica como também a liberdade individual. Nessa perspectiva a ideia de direitos humanos tem origem liberal.
+
+#### III- O liberalismo nasce afirmando o poder e a liberdade do Estado na relação com a sociedade e contrapondo-se aos direitos individuais, daí ser a pena de morte uma invenção liberal.
+
+#### IV- Extrema esquerda e extrema direita nunca respeitaram os Direitos Humanos, exemplos disso foram as experiências do Nazismo (Alemanha) e da Ditadura Militar (Brasil), ambas de extrema direita, e do Stalinismo (URSS) e do Chavismo (Venezuela) ambas de extrema esquerda.
+
+##### Assinale a alternativa correta:
+
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I e IV.
+- [ ] Estão corretas as afirmativas I, II, III e IV.
+- [x] Estão corretas as afirmativas I, II e IV.
+
+## Questão 55°
+
+#### No que diz respeito aos conceitos de **esquerda** e de **direita** é correto afirmar que:
+
+#### I- São termos que remontam a Revolução Francesa (1789), pois na assembleia francesa aqueles que sentavam a esquerda, tinham uma sensibilidade maior para as **questões sociais** e, a direita, tinham uma sensibilidade maior para as **questões econômicas**.
+
+#### II- Ser de direita é achar que nós somos muito mais **diferentes** do que iguais, a ênfase recai no que nos separa e, ser de esquerda é achar que nós somos muito mais **iguais** do que diferentes, a ênfase recai sobre o que nos aproxima. (Bobbio, 1995)
+
+#### III- A discussão se dá em torno do **Estado** e de suas atribuições, pois ser esquerda é pensar no Estado mais voltado ao **desenvolvimento social** e a distribuição de renda, ao passo que ser de direita é pensar no Estado mais voltado a **eficácia econômica**, portanto um Estado menor.
+
+#### IV- Essas noções não existem mais, pois os **partidos políticos** fazem coligações que não respeitam mais a sua **pureza ideológica**. Essa distinção terminou com a queda do muro de Berlim.
+
+##### Assinale a alternativa correta:
+
+- [ ] Estão corretas as afirmativas I, II, III e IV.
+- [x] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I e IV.
+
+## Questão 56°
+
+##### São princípios da **Democracia Representativa Liberal**:
+
+#### I- distribuir o poder entre todos e regular a competição política através de regras, pois o excesso de poder nas mãos de uma única pessoa ou grupo sempre leva à tirania, ao abuso de poder.
+
+#### II- ser uma "tecnologia de distribuição de poder" que visa regular a relação entre inúmeros interesses diversos de formas a evitar a nossa autodestruição.
+
+#### III- ser uma forma de governo de muitos para o bem de todos, subordinada às leis, capaz de controlar os egoísmos e os interesses individuais em prol do bem de todos.
+
+#### IV- garantir para aqueles que detêm o poder da sabedoria e das boas virtudes o direito de comandar, governar e triunfar sobre os incultos, incapazes e carentes de moral.
+
+##### Assinale a alternativa correta:
+
+- [ ] Estão corretas as afirmativas I, II, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [x] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I e IV.
+
+## Questão 57°
+
+#### As Ciências Sociais têm apostado na "regulamentação da competição política", em outras palavras, nas "regras do jogo", em leis e valores democráticos (BOBBIO, 1997) que evitem nossa autodestruição. Em outras palavras, as "regras do jogo" passam pelos direitos fundamentais que são intrínsecos à pessoa humana, esses são os famosos "Direitos Humanos". São características dos Direitos Humanos:
+
+#### I- Direitos que são comuns a todos, sem distinção de etnia, nacionalidade, sexo, classe social, nível de instrução, religião, opinião política, orientação sexual ou de qualquer tipo de julgamento moral.
+
+#### II- Os Direitos Humanos são históricos, pois não estão "congelados" em um dado período, há acréscimos e aperfeiçoamentos, um processo em construção.
+
+#### III- Em razão da Segunda Guerra Mundial, diante dos horrores do holocausto e da perseguição nazista aos judeus e demais povos não arianos, é que tivemos, em 1948, a primeira Declaração Universal dos Direitos Humanos.
+
+#### IV- Tratam-se de Direitos restritos a cidadãos do bem, que cumprem as leis, respeitam o próximo e cultivam as boas virtudes.
+
+##### Assinale a alternativa correta:
+
+- [x] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I, II, III e IV.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I e IV.
+
+## Questão 58°
+
+#### Quanto a Democracia Representativa Liberal, conforme conteúdo disponibilizado pela disciplina, podemos aferir que:
+
+#### I- Um princípio fundamental da democracia é tirar o poder das pessoas e colocar nas normas, nas regras, nas leis.
+
+#### II- Embora a democracia guarde desde a antiguidade a preocupação com a distribuição e o controle do poder pela "demos", é na sua versão moderna que observaremos a cristalização dos direitos fundamentais da pessoa contra o arbítrio estatal.
+
+#### III- Na teoria dos três poderes, há uma separação do poder absoluto (executivo) em três poderes independentes e interdependentes. Cada um desses poderes deve ser capaz de contrariar o outro poder, executando, legislando ou julgando.
+
+#### IV- A Democracia representativa baseia-se na delegação do poder de representar a população, centrado no parlamentar eleito. Que fala (ou deveria falar) em nome dos seus eleitores.
+
+##### Assinale a alternativa correta:
+
+- [ ] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [x] Estão corretas as afirmativas I, II, III e IV.
+- [ ] Estão corretas as afirmativas I e IV.
+
+## Questão 59°
+
+#### Conforme o sociólogo espanhol Manuel Castells, no Brasil e no mundo observam-se revezes quanto aos postulados democráticos como liberdade, tolerância, respeito às diferenças, aumento da participação da sociedade na distribuição do poder do estado, direitos humanos, enfim, o respeito às regras do jogo democrático. São causas dessa crise:
+
+#### I- uma ruptura na relação entre governantes e governados, fruto de uma falta de se confiança na representatividade da classe política.
+
+#### II- o fato de que dois terços (&iquest;) da população do planeta acha que os políticos não os representam; que os governos são corruptos, injustos, burocráticos e opressivos.
+
+#### III- a crise de confiança nos partidos que defendem a si próprios, formando uma casta política.
+
+#### IV- há uma ruptura entre governos e governados, porque a democracia por ser representativa só pode existir se as pessoas acreditarem que estão sendo representadas.
+
+##### Assinale a alternativa **correta**:
+
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e III.
+- [x] Estão corretas as afirmativas I, II, III e IV
+- [ ] Estão corretas as afirmativas I e IV.
+
+## Questão 60°
+
+#### Um dos efeitos da autocomunicação de massas é a transformação que produz na relação e percepção daquilo que é público e privado. Nesse sentido é correto afirmar que:
+
+#### I- O tipo de comunicação todos-com-todos que caracteriza o ciberespaço, inverte a lógica anterior das mídias de massa como a televisão e o rádio, pois agora traz o privado para o público e não o inverso, como ocorria no período anterior.
+
+#### II- A maior visibilidade dos fenômenos sociais faz com que sejam construídos através de relações cada vez mais secundárias e menos primárias.
+
+#### III- A autocomunicação de massas permite uma maior democratização da informação, que é mais difícil de controlar, e assim informações privadas, mas de interesse público vem à tona constantemente.
+
+#### IV- A falta de veracidade naquilo que é tornado público na Internet, demonstra que não há mudanças tão radicais assim na relação entre público e privado.
+
+##### Assinale a alternativa **correta**.
+
+- [x] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Estão corretas as afirmativas I, II, III e IV.
+- [ ] Estão corretas as afirmativas I e IV.
+
+## Questão 61°
+
+#### Segundo Marshall (1967), na história europeia, houve uma evolução dos direitos do cidadão na seguinte sequência: primeiro, vieram, no século XVIII, os direitos civis, ou seja, os direitos relativos à individualidade, à propriedade, à liberdade; depois, no século XIX, foi a vez dos direitos políticos, de participação, de contestação, de votar e ser votado e, somente no século XX, os direitos sociais, a moradia, a educação, a saúde. Ocorre que, no Brasil, nossa cidadania subverteu essa lógica. Com essa afirmação, o autor chama a atenção para o fato de que com essa subversão:
+
+#### I- os direitos sociais vieram primeiro, depois os políticos e, por fim, os direitos civis.
+
+#### II- diferentemente da lógica matemática, a "ordem dos fatores alterou a soma" aqui, pois, com a inversão, os direitos sociais passaram a ser vistos como regalias concedidas pelo Estado. I
+
+#### II- teremos a constituição de uma "cidadania passiva" que fortaleceu o executivo em prejuízo de outras instituições como o parlamento, entre outras.
+
+#### IV- houve uma afirmação da cidadania ativa no país, sobretudo articulou as dinâmicas de pressão da sociedade sobre o Estado, estabelecendo relações de confiança horizontalizadas.
+
+##### Com base nas afirmações anteriores, assinale a alternativa correta.
+
+- [ ] Apenas a afirmação I está correta.
+- [ ] Apenas a afirmação III está correta.
+- [ ] Somente as afirmações I e II estão corretas.
+- [x] Somente as afirmações I, II e III estão corretas.
+- [ ] Apenas a afirmação II está correta.
+
+## Questão 62°
+
+#### A relação do jornalismo com as redes sociais é de retroalimentação. Sendo assim, assinale a alternativa correta.
+
+- [ ] As discussões em redes sociais não costumam ser pautadas pelo jornalismo.
+- [ ] O usuário de redes sociais é passivo no seu consumo de conteúdo e não filtra e nem seleciona aquilo que pode chegar nele.
+- [ ] Os consumidores de informações atribuem tanta credibilidade às informações publicadas em redes sociais, que não buscam conferi-las em rádios, portais de notícias ou na televisão.
+- [x] A imprensa baseia a sua produção de notícias em parte na repercussão real ou potencial de determinados assuntos nas redes sociais, de modo que as redes pautam efetivamente o jornalismo.
+- [ ] O consumo de informação por parte do público, independe das suas conexões nas redes sociais.
+
+## Questão 63°
+
+#### Conforme o cientista político Sérgio Abranches, vivemos hoje uma crise de representatividade que ameaça a democracia (que nada mais é do que uma forma de representação). No contexto dessa crise o autor refere que :
+
+#### I- É impulsionada pelas mudanças na economia que têm sido mais rápidas do que na política, pois a digitalização da sociedade e a globalização da economia produziram faixas de pessoas que não se sentem representadas na política, novos tipos de trabalhadores, sobretudo.
+
+#### II- A cultura da autonomia entra em choque com as instituições tradicionais como os partidos políticos.
+
+#### III- Os partidos políticos tornaram-se oligárquicos, representando interesses cada vez mais pessoais e restritos. Partidos analógicos não atendem demandas da sociedade digital.
+
+#### IV- O efeito dessa crise de representatividade desencadeia dois aspectos extremos: de um lado a alienação de pessoas que cada vez mais se desinteressam por política, e de outro a volta ao autoritarismo, sobretudo de extrema-direita.
+
+#### Assinale a alternativa correta:
+
+- [ ] Estão corretas as afirmativas I e IV.
+- [x] Estão corretas as afirmativas I, II, III e IV.
+- [ ] Estão corretas as afirmativas I, II e III.
+- [ ] Estão corretas as afirmativas I, III e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
+
+## Questão 64°
+
+#### A democracia representativa é um fenômeno das sociedades urbanas. Quais as diferenças do sistema de votação nos regimes liberais e socialistas? Assinale a alternativa correta:
+
+- [ ] A escolha de representantes nos regimes socialistas ocorre por votação secreta e universal e nos regimes liberais ocorre em assembleias, votação direta, nos locais de trabalho ou moradia.
+- [x] A escolha de representantes nos regimes liberais ocorre por votação direta, secreta e universal e nos regimes socialistas ocorre em assembleias nos locais de trabalho ou moradia.
+- [ ] A escolha dos representantes nos regimes socialistas ocorre através de plebiscitos na internet e nos regimes liberais por direito divino
+- [ ] A escolha de representantes nos regimes liberais ocorre por votação secreta e universal e nos regimes socialistas ocorre em assembleias, votação direta nos locais de trabalho ou moradia.
+- [ ] A escolha de representantes nos regimes socialistas ocorre por votação direta, secreta e universal e nos regimes liberais ocorre em assembleias nos locais de trabalho ou moradia.
+
+## Questão 65°
+
+#### Conforme o sociólogo espanhol Manuel Castells, no Brasil e no mundo observam-se revezes quanto aos postulados democráticos como: liberdade, tolerância, respeito às diferenças, aumento da participação da sociedade na distribuição do poder do estado, direitos humanos, enfim, o respeito às regras do jogo democrático. Quais são causas dessa crise?
+
+##### Analise com atenção as **duas** afirmativas que seguem e depois responda ao que é proposto.
+
+#### I- A democracia por ser representativa só pode existir se as pessoas acreditarem que estão sendo representadas. Há hoje uma ruptura entre governos e governados.
+
+### Porque
+
+#### II- Observa-se hoje que dois terços (2/3) da população do planeta acha que os políticos não os representam; que os governos são corruptos, injustos, burocráticos e opressivos; que os partidos que defendem a si próprios, formando uma casta política. A respeito dessas asserções, assinale a opção correta.
+
+- [ ] A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+- [ ] A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+- [ ] As asserções I e II são proposições falsas.
+- [x] As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
+- [ ] As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+
+## Questão 66°
+
+#### Segundo o capítulo "Trabalho e Emprego no Mundo das Novas Tecnologias", quando a carreira tem a pessoa como sua principal responsável, apresenta condições de mobilidade, por meio de fronteiras organizacionais, e valor do trabalho independente do empregador, é subsidiada por informações sobre o mercado de trabalho e redes de relacionamento (networks, capital social) e reconhece formas de progressão e de continuidade independentemente da hierarquia organizacional, é chamada de:
+
+- [ ] Carreira burocrática.
+- [x] Carreira sem fronteiras.
+- [ ] Carreira organizacional.
+- [ ] Carreira hierárquica.
+- [ ] Todas as alternativas estão corretas.
+
+## Questão 67°
+
+#### Um dos efeitos da autocomunicação de massas é a transformação que produz na relação e percepção daquilo que é público e privado. Nesse sentido é correto afirmar que: Analise com atenção as duas afirmativas que seguem e depois responda ao que é proposto.
+
+#### I- O tipo de comunicação todos-com-todos que caracteriza o ciberespaço, inverte a lógica anterior das mídias de massa como a televisão e o rádio, pois agora traz o privado para o público e não o inverso, como ocorria no período anterior.
+
+### Porque
+
+#### II- A autocomunicação de massas permite uma maior democratização da informação, que é mais difícil de controlar, e assim informações privadas, mas de interesse público vem à tona constantemente. A respeito dessas asserções, assinale a opção correta.
+
+- [ ] A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+- [ ] As asserções I e II são proposições verdadeiras, e a II é uma justificativa.
+- [ ] A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+- [x] As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+- [ ] As asserções I e II são proposições falsas.
+
+## Questão 68°
+
+#### Assinale a alternativa **correta**: "O chamado **Estado de Direito Democrático caracteriza-se pela existência de pelo menos **três elementos\*\* a saber":
+
+##### Assinale a alternativa correta:
+
+- [x] Governo representativo (parlamento), Constitucionalismo (Constituição) e Sufrágio Universal (Voto).
+- [ ] Constitucionalismo, Governo Representativo e Presidencialismo.
+- [ ] Estado, Constituição (leis) e Forças Armadas (para fazer cumpir as leis).
+- [ ] Monarca (líder soberano), Estado e Forças Armadas (braço armado do Estado).
+- [ ] Governo Representativo (parlamento), Monarca (líder soberano) e Soberania popular (voto).
+
+## Questão 69°
+
+##### Leia com atenção as afirmativas abaixo:
+
+#### I- O conflito é importante na democracia, o problema são os extremos, tanto a extrema esquerda, quanto a extrema direita, ambos são negadores da democracia e não comungam de consensos básicos necessários para ela existir.
+
+#### II- Na história da humanidade, o Stalinismo e o Nazismo foram exemplos claros desses extremos, o primeiro à esquerda e o segundo à direita, os dois negadores da condição humana, dos indivíduos, dos direitos humanos e das liberdades.
+
+#### III- O que une fortemente a extrema direita e a extrema esquerda é, sem dúvida, o forte autoritarismo e a negação da democracia e das liberdades. Os extremos são antiliberais e anticapitalistas e quase sempre favoráveis a mais Estado e menos direitos humanos.
+
+#### IV- A democracia é capaz de suportar tanto forças de esquerda quanto de direita, mas ela não é capaz de subsistir sem os direitos humanos.
+
+##### Assinale a alternativa **correta**:
+
+- [ ] Estão corretas as afirmativas I e IV.
+- [ ] Estão corretas as afirmativas I, II e IV.
+- [ ] Está correta a afirmativa I somente.
+- [ ] Estão corretas as afirmativas I e II.
+- [x] Estão corretas as afirmativas I, II, III e IV.
