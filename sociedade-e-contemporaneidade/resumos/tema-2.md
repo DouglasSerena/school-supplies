@@ -1,25 +1,128 @@
-# Tema 1° 
-## CONTEXTUALIZANDO CIÊNCIA, INOVAÇÃO E EMPREENDEDORISMO
+# Tema 2° - PROCESSOS CRIATIVOS
 
-### Principais pontos abordados no tema
+## Principais pontos abordados no tema
 
-1. O artigo aborda a importância da Ciência, Inovação e Empreendedorismo no processo de formação do profissional para o mercado competitivo.
-2. A disciplina de Ciência, Inovação e Empreendedorismo relaciona três conceitos importantes e necessários para atingir a missão institucional de ser uma comunidade de aprendizagem eficaz e inovadora.
-3. A Ciência é discutida como base para o processo de Inovação e como fundamento para uma atitude Empreendedora embasada no conhecimento científico.
-4. A ULBRA propõe a importância da Ciência para todas as áreas do conhecimento, alinhando-se com seu Plano de Desenvolvimento Pedagógico (PDI) e promovendo uma formação acadêmica que desenvolva competências cognitivas, técnicas, pessoais e sociais.
-5. A inovação é vista como essencial para a sobrevivência em um cenário competitivo e globalizado, e seu conceito vem sendo estudado desde o início do século XX.
-6. A inovação pode ocorrer em diferentes áreas, incluindo as inovações sociais, de saúde, no poder público e nas tecnologias de comunicação, contribuindo para melhorias na qualidade de vida.
-7. O empreendedorismo é apresentado como o impulsionador da pesquisa científica e da geração de inovação. O empreendedor na universidade é aquele que propõe mudanças, implanta novas práticas e busca constantemente a melhoria.
-8. É destacada a importância de promover as condições ideais para estimular o espírito empreendedor, a busca pela melhoria contínua e a mentalidade empreendedora.
+- O artigo aborda o tema da criatividade, o pensamento criativo e os princípios do processo criativo.
+- A criatividade pode ser desenvolvida e estimulada através de diversas ferramentas, como o design thinking.
+- Existem quatro categorias principais relacionadas à criatividade: pessoa, produto, processo e ambiente.
+- O processo criativo envolve fases como a captação de um problema aberto, busca de informações, processo inconsciente de trabalho, insight, análise da ideia, detalhamento da melhor ideia e estratégias de realização e verificação.
+- Existem várias técnicas que estimulam a criatividade, incluindo associação livre, brainstorming, brainwriting, pensamento descontínuo, mapas mentais, fluxogramas e análise de cenários.
+- A técnica dos seis chapéus do pensamento, desenvolvida por Edward de Bono, envolve o uso de diferentes perspectivas para analisar um problema.
+- Essas técnicas podem ser aplicadas em diferentes áreas, como publicidade, gestão de pessoas, marketing digital, pesquisa, entre outras.
 
-### Imagens
+## O pensamento criativo
 
-![Alt text](assets/infogr%C3%A1ficoT001.PNG)
-![Alt text](assets/Figura-1.png)
-![Alt text](assets/fig.01.png)
-![Alt text](assets/fig.05.png)
-![Alt text](assets/fig.04.png)
+### Pessoa
 
-#### Referências
+incluem três aspectos: características cognitivas, traços de personalidade e experiências (ter hobby ou ter um primeiro filho).
 
-- (https://sites.google.com/ulbra.br/G000004GS003/t001)[https://sites.google.com/ulbra.br/G000004GS003/t001]
+### Produto
+
+enfatizam que o produto final deve ser novo, útil e com valor para a sociedade.
+
+### Processo
+
+acreditam que o desenvolvimento de produtos criativos passa por um processo que envolve uma maneira original para a produção de ideias incomuns, transformações de ideias já existentes ou uma combinação diferente de ideias.
+
+### Ambiente
+
+a pesquisa objetiva em criatividade, aponta que “nenhuma pessoa criativa consegue avançar sem experiências ou fatos prévios ocorridos em diversos ambientes; ninguém cria no vazio ou com o vazio” (GUILFORD, 1950, p.448 citado por LINS; MYATA, 2008, p.459).
+
+## O processo criativo
+
+### Indivíduo
+
+Carga genética e experiências pessoais – seu papel no processo consiste em gerar variação pela motivação proveniente da apropriação de conhecimentos e características de personalidade;
+
+### Campo
+
+Sistema social – representado por um conjunto de especialistas que se encarregam de julgar, premiar ou desencorajar pessoas, alicerçados em fatores econômicos, técnicos e logísticos presente em sua época.
+
+### Domínio
+
+Cultura – consiste na parte simbólica que integra necessidades, retém informações e modela comportamentos para as próximas gerações.
+
+## Fases do processo criativo
+
+### Percepção do Problema
+
+Captação de um problema aberto, ou seja, onde existem diversas respostas possíveis. A formulação do problema deve ser o mais claro possível, para que a tarefa seja bem conduzida.
+
+### Captação das Informações
+
+Busca de informações, multidirecional, significativa, ou irrestrita, pois não se sabe que informação ou estímulo podem levar ao surgimento de uma resposta adequada.
+
+### Incubação
+
+Nessa fase todo o material recolhido vai ser submetido a um Processo inconsciente de trabalho, trata-se da fazer de reflexão e maturação das informações adquiridas. Reflexão, contemplação, maturação e apropriação.
+
+### Iluminação
+
+É o momento privilegiado em que uma ideia ou imagem emerge do inconsciente e traz uma resposta possível ao problema, também pode ser entendido como a fase insight.
+
+### Avaliação
+
+Analisa-se a ideia, confronta-se com os critérios previamente definidos que delimitam e especificam as condições a cumprir. Momento de verificar se a ideia reúne os pré-requisitos necessários para dar solução ao problema diagnosticado.
+
+### Elaboração
+
+Detalha-se a melhor ideia, previamente avaliada, em uma solução possível com o máximo de detalhes. Consiste na aplicação dos conhecimentos técnicos, procedimentais e metodológicos com vistas a realizar as conexões necessárias para torná-la tangível ou aplicável da ideia.
+
+### Estratégias de realização e verificação
+
+Elabora-se o plano ou projeto para a realização da ideia: procura-se aliados, formas de apresentação, momentos e lugares oportunos, previsão de críticas, compara-se, estrutura-se para a execução. A ideia projetada, planificada para ser, posteriormente, realizada.
+
+## Como desenvolver um mapa mental:
+
+- Escreva o tema central no centro de uma folha;
+- Desenhe diversas linhas a partir dele e escreva nos seus extremos palavras-chave que representem benefícios, objetivos, técnicas, princípios, desenvolvimento, dentre outros.
+- Deixe a mente fluir livremente e então vá estabelecendo as conexões entre as ideias.
+- Por fim, analise as conexões criadas.
+
+## Técnica dos seis chapéus
+
+### Branco:
+
+Olha para os fatos, não fazendo julgamentos.
+
+### Vermelho:
+
+Utilizado para expressar sentimentos e dar respostas intuitivas.
+
+### Preto:
+
+O chapéu mais negativo é utilizado para examinar obstáculos e as razões por que determinada decisão não deu certo.
+
+### Amarelo:
+
+Representa o pensamento otimista, que procura os benefícios de um projeto.
+
+### Verde:
+
+Utilizado para o pensamento mais criativo, é o chapéu das alternativas, das ideias provocadoras e da mudança.
+
+### Azul:
+
+É o chapéu da reflexão, que o ajuda, por exemplo, a identificar o chapéu que terá que usar em cada momento.
+
+## Reflita:
+
+#### Quais as características que devemos desenvolver para ser um design Thinker?
+
+- Ter um senso crítico e ser flexível com mudanças;
+- Ter empatia pelas atitudes e comportamentos das pessoas;
+- Ser paciente para permanecer em um ambiente hostil cheio de problemas, até que as perguntas certas possam surgir;
+- Consideração pelo colaborativo, aproximar-se do problema tanto da empresa quanto de seu cliente final.
+
+## Imagens
+
+![Alt text](./../assets/tema-2/1.png)
+![Alt text](./../assets/tema-2/2.png)
+![Alt text](./../assets/tema-2/3.png)
+![Alt text](./../assets/tema-2/4.png)
+![Alt text](./../assets/tema-2/5.png)
+![Alt text](./../assets/tema-2/6.png)
+
+## Referências
+
+- [https://sites.google.com/ulbra.br/G000004GS003/t002](https://sites.google.com/ulbra.br/G000004GS003/t002)

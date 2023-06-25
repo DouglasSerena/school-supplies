@@ -1,8 +1,6 @@
-# Tema 1°
+# Tema 1° - CONTEXTUALIZANDO CIÊNCIA, INOVAÇÃO E EMPREENDEDORISMO
 
-## CONTEXTUALIZANDO CIÊNCIA, INOVAÇÃO E EMPREENDEDORISMO
-
-### Principais pontos abordados no tema
+## Principais pontos abordados no tema
 
 1. O artigo aborda a importância da Ciência, Inovação e Empreendedorismo no processo de formação do profissional para o mercado competitivo.
 2. A disciplina de Ciência, Inovação e Empreendedorismo relaciona três conceitos importantes e necessários para atingir a missão institucional de ser uma comunidade de aprendizagem eficaz e inovadora.
@@ -13,7 +11,7 @@
 7. O empreendedorismo é apresentado como o impulsionador da pesquisa científica e da geração de inovação. O empreendedor na universidade é aquele que propõe mudanças, implanta novas práticas e busca constantemente a melhoria.
 8. É destacada a importância de promover as condições ideais para estimular o espírito empreendedor, a busca pela melhoria contínua e a mentalidade empreendedora.
 
-### Imagens
+## Imagens
 
 ![Alt text](./../assets/tema-1/1.png)
 ![Alt text](./../assets/tema-1/2.png)
@@ -22,6 +20,6 @@
 ![Alt text](./../assets/tema-1/5.png)
 ![Alt text](./../assets/tema-1/6.png)
 
-#### Referências
+## Referências
 
 - [https://sites.google.com/ulbra.br/G000004GS003/t001](https://sites.google.com/ulbra.br/G000004GS003/t001)
