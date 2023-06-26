@@ -2,13 +2,17 @@
 
 ## Principais pontos abordados no tema
 
-- O artigo aborda o tema da criatividade, o pensamento criativo e os princípios do processo criativo.
-- A criatividade pode ser desenvolvida e estimulada através de diversas ferramentas, como o design thinking.
-- Existem quatro categorias principais relacionadas à criatividade: pessoa, produto, processo e ambiente.
-- O processo criativo envolve fases como a captação de um problema aberto, busca de informações, processo inconsciente de trabalho, insight, análise da ideia, detalhamento da melhor ideia e estratégias de realização e verificação.
-- Existem várias técnicas que estimulam a criatividade, incluindo associação livre, brainstorming, brainwriting, pensamento descontínuo, mapas mentais, fluxogramas e análise de cenários.
-- A técnica dos seis chapéus do pensamento, desenvolvida por Edward de Bono, envolve o uso de diferentes perspectivas para analisar um problema.
-- Essas técnicas podem ser aplicadas em diferentes áreas, como publicidade, gestão de pessoas, marketing digital, pesquisa, entre outras.
+Os processos criativos são abordados como um tema nesta unidade. A criatividade, o pensamento criativo e os princípios do processo criativo são explorados, juntamente com as principais metodologias e técnicas utilizadas para estimular a criatividade no processo de inovação.
+
+A criatividade é frequentemente associada ao pensamento original, novo e valioso. As pessoas muitas vezes dependem de modelos testados e comprovados, em vez de desenvolverem iniciativa e criatividade. No entanto, a competitividade atual leva as empresas a buscarem soluções inovadoras, o que requer o estímulo à criatividade dos colaboradores.
+
+A criatividade é influenciada por diferentes aspectos, incluindo características cognitivas, traços de personalidade, experiências, ambiente e produtos finais úteis e valorosos para a sociedade. O pensamento criativo pode ser desenvolvido em um ambiente propício, como uma universidade, onde a curiosidade pode levar à criatividade e à geração de ideias inovadoras.
+
+O processo criativo é descrito como um processo resultante da interação de três fatores: o indivíduo, o campo social e o domínio cultural. Esses fatores desempenham um papel na geração de variação e no desenvolvimento de ideias criativas. O processo criativo pode ser dividido em fases, como a percepção do problema, a captação de informações, a incubação, a iluminação, a avaliação, a elaboração e as estratégias de realização e verificação.
+
+Existem várias ferramentas e técnicas que podem ser usadas para estimular a criatividade. Algumas dessas técnicas incluem a associação de ideias, o brainstorming (tempestade de ideias), o brainwriting (registro escrito de ideias), a descontinuidade, o mapa mental, a construção de cenários e a técnica dos seis chapéus. Essas técnicas podem ser aplicadas em diferentes contextos, como desenvolvimento de produtos, marketing, planejamento de pesquisa, entre outros, para promover a geração de novas ideias e soluções inovadoras.
+
+É importante ressaltar que a criatividade pode ser desenvolvida por qualquer pessoa por meio da aplicação dessas técnicas e da criação de um ambiente propício à livre expressão de ideias e ao pensamento criativo.
 
 ## O pensamento criativo
 

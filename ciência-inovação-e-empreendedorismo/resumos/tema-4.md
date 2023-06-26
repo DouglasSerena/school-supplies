@@ -1,20 +1,29 @@
-# Tema 2° - O EMPREENDEDORISMO TRANSFORMA REALIDADES
+# Tema 4° - O EMPREENDEDORISMO TRANSFORMA REALIDADES
 
 ## Principais pontos abordados no tema
 
-- O artigo aborda os principais conceitos e características do empreendedorismo.
-- São apresentadas as diferenças entre empreender e ser um empresário.
-- O perfil do empreendedor de sucesso é delineado, destacando a importância da oportunidade e da criatividade na geração de ideias.
-- São explorados os principais modelos de empreendedorismo, suas vantagens e desvantagens, bem como os tipos existentes de empreendedorismo.
-- É abordada a importância de ter um modelo de negócios pré-estabelecido e bem definido, incluindo o modelo Canvas e a elaboração de um plano de negócios eficiente.
-- São apresentados métodos de avaliação de negócios, como o método de fluxo de caixa descontado, avaliação por fluxos e avaliação por valor patrimonial.
-- É discutida a evolução do conceito de empreendedorismo ao longo do tempo, destacando o papel das inovações tecnológicas.
-- São mencionados empreendedores famosos, como Bill Gates e Henry Ford, que colocaram a tecnologia como ponto central de seus empreendimentos.
-- É destacada a alta taxa de atividade empreendedora no Brasil, de acordo com a pesquisa GEM - Global Entrepreneurship Monitor.
-- São apresentados os principais fatores que influenciam o processo empreendedor, incluindo fatores pessoais, sociológicos, ambientais e organizacionais.
-- São descritas as características do empreendedor, como iniciativa, visão, coragem, decisão, entre outros.
-- São apresentados os tipos de empreendedorismo, como empreendedorismo corporativo, empreendedorismo de startup, empreendedorismo de negócios e empreendedorismo social.
-- É explicada a importância dos modelos de negócios, como o Canvas e o plano de negócios, e são abordados métodos de avaliação de negócios.
+O texto apresenta uma introdução ao empreendedorismo, abordando os principais conceitos, características do comportamento empreendedor e modelos de negócios. Ele destaca a importância de avaliar tendências e perspectivas de novos empreendimentos e conhecer as características dos empreendedores de sucesso.
+
+Um dos principais pontos a serem abordados é a diferença entre empreender e se tornar um empresário. Nem todo empresário é empreendedor, pois ser empreendedor envolve mais do que apenas criar uma empresa, mas também buscar oportunidades e utilizar a tecnologia e a inovação a favor dos negócios.
+
+Ao longo da história, várias invenções e revoluções tecnológicas surgiram em momentos propícios, impulsionando o papel do empreendedorismo. Exemplos notáveis incluem a Revolução Industrial, a criação do telefone, do computador pessoal e da lâmpada elétrica, que transformaram a forma como produzimos, criamos e nos relacionamos.
+
+No que diz respeito aos modelos de negócios, o texto menciona o modelo CANVAS, que é uma estrutura visual e flexível para a criação de um novo negócio. Também destaca a importância de um plano de negócios bem definido para o processo de criação e implementação. Além disso, são apresentados três métodos de avaliação de negócios: Método de fluxo de caixa descontado, Método de avaliação por fluxos e Método de avaliação por valor patrimonial.
+
+O texto enfatiza que o empreendedorismo está relacionado à inovação, ao uso da tecnologia e à capacidade de assumir riscos. Também ressalta a diferença entre ser empresário e ser empreendedor, destacando que nem todo empresário possui as características empreendedoras. São mencionados exemplos de empreendedores de sucesso, como Bill Gates e Henry Ford.
+
+Quanto ao perfil dos empreendedores, são destacadas características como iniciativa, visão, coragem, firmeza, decisão, capacidade de organização e direção. São apresentadas as três características básicas do empreendedor: necessidade de realização, disposição para assumir riscos e autoconfiança. Também são mencionados outros traços de comportamento do empreendedor, como criatividade, otimismo, perseverança, senso de independência e capacidade de implementação.
+
+O texto também aborda os tipos de empreendedorismo, mencionando o empreendedorismo corporativo, o empreendedorismo de start-up, o empreendedorismo de negócios e o empreendedorismo social. Cada um desses tipos possui características e objetivos específicos.
+
+Em resumo, o texto destaca a importância do empreendedorismo como um meio de transformar realidades, apresentando conceitos, características e modelos relacionados ao empreendedorismo.
+
+## Tipos de empreendedorismo
+
+1. Empreendedorismo corporativo: relacionado às atividades inovadoras dentro de empresas estabelecidas, buscando desenvolvimento e implementação de novos focos de mercado.
+2. Empreendedorismo de Start-Up: envolve empresas com ideias inovadoras e estratégias diferentes para entrar no mercado.
+3. Empreendedorismo de negócios: focado no desenvolvimento de novas empresas, abertura de franquias e ideias inovadoras que se tornam negócios lucrativos.
+4. Empreendedorismo social: visa criar mudanças e valor social, não apenas inovação comercial. Envolve parcerias entre empresas privadas, organizações públicas e organizações do terceiro setor.
 
 ## Modelos de Negócios
 
