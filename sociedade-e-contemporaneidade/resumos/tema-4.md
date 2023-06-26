@@ -58,14 +58,14 @@ Quais despesas teremos e qual meta financeira pretendo atingir? Tais questioname
 
 ## Imagens
 
-![Alt text](./../assets/tema-3/1.png)
-![Alt text](./../assets/tema-3/2.png)
-![Alt text](./../assets/tema-3/3.png)
-![Alt text](./../assets/tema-3/4.png)
-![Alt text](./../assets/tema-3/5.png)
-![Alt text](./../assets/tema-3/6.png)
-![Alt text](./../assets/tema-3/7.png)
-![Alt text](./../assets/tema-3/8.png)
+![Alt text](./../assets/tema-4/1.png)
+![Alt text](./../assets/tema-4/2.png)
+![Alt text](./../assets/tema-4/3.png)
+![Alt text](./../assets/tema-4/4.png)
+![Alt text](./../assets/tema-4/5.png)
+![Alt text](./../assets/tema-4/6.png)
+![Alt text](./../assets/tema-4/7.png)
+![Alt text](./../assets/tema-4/8.png)
 
 ## Referências
 
