@@ -1,4 +1,4 @@
-# Tema 2° - A INOVAÇÃO COMO FERRAMENTA PARA O SUCESSO
+# Tema 3° - A INOVAÇÃO COMO FERRAMENTA PARA O SUCESSO
 
 ## Principais pontos abordados no tema
 
